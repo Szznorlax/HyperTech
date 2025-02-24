@@ -1,0 +1,193 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "Drone DJI Mavic 3 Pro - Câmera Hasselblad 4K, 20MP, 46 minutos de voo",
+        "marca": "DJI",
+        "modelo": "Mavic 3 Pro",
+        "valor": "R$12.999,00",
+        "tipo": "Drone",
+        "imagem": "src/imgs/drone1.png"
+      },
+      {
+        "id": 2,
+        "nome": "Drone Autel Robotics EVO II - Câmera 8K, 40 minutos de voo, Obstacle Avoidance",
+        "marca": "Autel Robotics",
+        "modelo": "EVO II",
+        "valor": "R$9.500,00",
+        "tipo": "Drone",
+        "imagem": "/../src/imgs/drone2.png"
+      },
+      {
+        "id": 3,
+        "nome": "Drone Parrot Anafi - Compacto, Câmera 4K HDR, 25 minutos de voo",
+        "marca": "Parrot",
+        "modelo": "Anafi",
+        "valor": "R$3.200,00",
+        "tipo": "Drone",
+        "imagem": "src/imgs/drone3.png"
+      },
+      {
+        "id": 4,
+        "nome": "Drone Holy Stone HS720 - Câmera 4K, GPS, 26 minutos de voo",
+        "marca": "Holy Stone",
+        "modelo": "HS720",
+        "valor": "R$1.800,00",
+        "tipo": "Drone",
+        "imagem": "src/imgs/drone4.png"
+      },
+      {
+        "id": 5,
+        "nome": "Drone Xiaomi FIMI X8SE - Câmera 4K, 33 minutos de voo, GPS Inteligente",
+        "marca": "Xiaomi",
+        "modelo": "FIMI X8SE",
+        "valor": "R$2.500,00",
+        "tipo": "Drone",
+        "imagem": "src/imgs/drone2.png"
+      },
+      {
+        "id": 6,
+        "nome": "Smartwatch Apple Watch Series 8 - Tela Retina, Monitor de Saúde, GPS",
+        "marca": "Apple",
+        "modelo": "Watch Series 8",
+        "valor": "R$4.999,00",
+        "tipo": "Smartwatch",
+        "imagem": "src/imgs/Smartwatch1.png"
+      },
+      {
+        "id": 7,
+        "nome": "Smartwatch Samsung Galaxy Watch 5 - Monitor de Sono, Resistente à Água, Bluetooth",
+        "marca": "Samsung",
+        "modelo": "Galaxy Watch 5",
+        "valor": "R$2.300,00",
+        "tipo": "Smartwatch",
+        "imagem": "src/imgs/Smarwatch2.png"
+      },
+      {
+        "id": 8,
+        "nome": "Smartwatch Garmin Fenix 6 - GPS, Monitor de Batimento Cardíaco, Resistente a Impactos",
+        "marca": "Garmin",
+        "modelo": "Fenix 6",
+        "valor": "R$5.500,00",
+        "tipo": "Smartwatch",
+        "imagem": "src/imgs/Smartwatch4.png"
+      },
+      {
+        "id": 9,
+        "nome": "Smartwatch Xiaomi Mi Band 7 - Tela AMOLED, Monitor de Atividades, 14 Dias de Bateria",
+        "marca": "Xiaomi",
+        "modelo": "Mi Band 7",
+        "valor": "R$499,00",
+        "tipo": "Smartwatch",
+        "imagem": "src/imgs/Smartwatch4.png"
+      },
+      {
+        "id": 10,
+        "nome": "Smartwatch Huawei Watch GT 3 - Tela AMOLED, Monitor de Saúde, 14 Dias de Bateria",
+        "marca": "Huawei",
+        "modelo": "Watch GT 3",
+        "valor": "R$1.200,00",
+        "tipo": "Smartwatch",
+        "imagem": "src/imgs/Smartwatch5.png"
+      },
+      {
+        "id": 11,
+        "nome": "Fone de Ouvido Sony WH-1000XM5 - Cancelamento de Ruído, Bluetooth, 30h de Bateria",
+        "marca": "Sony",
+        "modelo": "WH-1000XM5",
+        "valor": "R$2.800,00",
+        "tipo": "Fone de Ouvido",
+        "imagem": "src/imgs/Fones1.png"
+      },
+      {
+        "id": 12,
+        "nome": "Fone de Ouvido Bose QuietComfort 45 - Cancelamento de Ruído, Conforto Premium, 24h de Bateria",
+        "marca": "Bose",
+        "modelo": "QuietComfort 45",
+        "valor": "R$2.500,00",
+        "tipo": "Fone de Ouvido",
+        "imagem": "src/imgs/Fones2.png"
+      },
+      {
+        "id": 13,
+        "nome": "Fone de Ouvido JBL Tune 510BT - Bluetooth, 40h de Bateria, Design Dobrável",
+        "marca": "JBL",
+        "modelo": "Tune 510BT",
+        "valor": "R$299,00",
+        "tipo": "Fone de Ouvido",
+        "imagem": "src/imgs/Fones3.png"
+      },
+      {
+        "id": 14,
+        "nome": "Fone de Ouvido Apple AirPods Pro (2ª Geração) - Cancelamento de Ruído, Estojo de Recarga",
+        "marca": "Apple",
+        "modelo": "AirPods Pro (2ª Geração)",
+        "valor": "R$2.200,00",
+        "tipo": "Fone de Ouvido",
+        "imagem": "src/imgs/Fones4.png"
+      },
+      {
+        "id": 15,
+        "nome": "Fone de Ouvido Xiaomi Redmi Buds 3 Pro - Cancelamento de Ruído, 28h de Bateria, Bluetooth 5.2",
+        "marca": "Xiaomi",
+        "modelo": "Redmi Buds 3 Pro",
+        "valor": "R$399,00",
+        "tipo": "Fone de Ouvido",
+        "imagem": "src/imgs/Fones5.png"
+      },
+      {
+        "id": 16,
+        "nome": "Smartphone Samsung Galaxy S23 Ultra - Câmera 200MP, 12GB RAM, 256GB, 5G",
+        "marca": "Samsung",
+        "modelo": "Galaxy S23 Ultra",
+        "valor": "R$8.999,00",
+        "tipo": "Smartphone",
+        "imagem": "src/imgs/Smart1.jpg"
+      },
+      {
+        "id": 17,
+        "nome": "Smartphone iPhone 15 Pro Max - Câmera 48MP, A17 Pro, 256GB, 5G",
+        "marca": "Apple",
+        "modelo": "iPhone 15 Pro Max",
+        "valor": "R$10.499,00",
+        "tipo": "Smartphone",
+        "imagem": "src/imgs/Smart2.jpg"
+      },
+      {
+        "id": 18,
+        "nome": "Smartphone Xiaomi 13 Pro - Câmera Leica, 12GB RAM, 256GB, 5G",
+        "marca": "Xiaomi",
+        "modelo": "13 Pro",
+        "valor": "R$6.500,00",
+        "tipo": "Smartphone",
+        "imagem": "src/imgs/Smart3.jpg"
+      },
+      {
+        "id": 19,
+        "nome": "Smartphone Motorola Edge 40 - Câmera 50MP, 8GB RAM, 256GB, 5G",
+        "marca": "Motorola",
+        "modelo": "Edge 40",
+        "valor": "R$3.999,00",
+        "tipo": "Smartphone",
+        "imagem": "src/imgs/Smart4.jpg"
+      },
+      {
+        "id": 20,
+        "nome": "Smartphone Google Pixel 7 Pro - Câmera 50MP, 12GB RAM, 256GB, 5G",
+        "marca": "Google",
+        "modelo": "Pixel 7 Pro",
+        "valor": "R$5.800,00",
+        "tipo": "Smartphone",
+        "imagem": "src/imgs/Smart5.jpg"
+      },
+      {
+        "id": 21,
+        "nome": "Smartphone Google Pixel 7 Pro - Câmera 50MP, 12GB RAM, 256GB, 5G",
+        "marca": "Google",
+        "modelo": "Pixel 7 Pro",
+        "valor": "R$5.800,00",
+        "tipo": "Smartphone",
+        "imagem": "src/imgs/Smart5.jpg"
+      }
+    ]
+  }
